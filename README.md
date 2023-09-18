@@ -1,6 +1,7 @@
 # Playwright_PageObjectModel
 
 Steps 
+
 Step 1 - Create a new folder and open in IDE or Editor (like VS Code)
 
 Step 2 - Initialize a new Node.js project by running npm init -y to create a package.json file
